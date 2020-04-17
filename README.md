@@ -10,7 +10,7 @@ import (
 
 ```
 In your `go.mod` you can add (or let this be generated):
-```golang
+```
 require (
   github.com/tcorp-bv/bol-api-proto-go v1.0.0
 )
